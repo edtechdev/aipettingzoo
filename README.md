@@ -3,6 +3,8 @@ author:   Doug Holton
 
 version:  0.0.1
 
+logo:     docs/img/aipettingzoo.png
+
 language: en
 
 narrator: US English Female
@@ -21,13 +23,21 @@ persistent: true
 
 @beforeAndAfter(docs/img/aipettingzoo.png,docs/img/pettingzoo.png)
 
-This is your **course** initialization stub.
+This is your **course** initialization stub. ok then
 
 Please see the [Docs](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md)
 to find out what is possible in [LiaScript](https://liascript.github.io).
 
 If you want to use instant help in your Atom IDE, please type **lia** to see all available shortcuts.
 
+
+Short link to view this resource online:
+========================================
+**[tinyurl.com/aipetzoo](https://tinyurl.com/aipetzoo)**
+========================================
+Or point your phone camera at this QR code:
+========================================
+![tinyurl.com/aipetzoo](docs/img/aipetzoo-qr.png)
 
 ## Tools
 
