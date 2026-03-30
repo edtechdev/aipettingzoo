@@ -35,7 +35,6 @@ persistent: true
 * [**EduGems**](https://www.edugems.ai/) and **[TeacherServer](https://teacherserver.com/teaching)** have collections of sample custom prompts and tools for instructors
 
 
-
 <center>
 **Short link to view this resource online:**
 
@@ -98,13 +97,14 @@ Create an AI chatbot your students can use for learning support.
   * [Sample Playlab apps](https://www.playlab.ai/explore)  
   * [Course builder](https://www.playlab.ai/project/cmn8y9pex0vkjmi0wnq1tsjmu) \- testing this out, may time out  
 * [Creating a Custom Gemini Gem](https://support.google.com/gemini/answer/15235603?hl=en) \- examples:  
-  * [EduGems](https://www.edugems.ai/) has a directory of several educational Gems  
+  * [EduGems](https://www.edugems.ai/) has a directory of several educational Gems. See also the [EduGem Generator](https://www.edugems.ai/gem/edugem-generator) for assistance creating your own  
   * [Alt Text Generator](https://gemini.google.com/gem/1qkiILxWUW1tGeVb9IOICQCREKmEIuhNS?usp=sharing) \- describe an image  
   * [Hawkulus \- Calculus learning coach](https://gemini.google.com/gem/17evrnT3R-s_jQNtckS3O7s9IsYWvQ4MB?usp=sharing) \- ([system instructions](https://docs.google.com/document/d/1p2aeeVmstAASRUsgH52NLDmhghrhhsab2pvmyevnuYI/edit?usp=sharing))  
   * [Online module designer](https://gemini.google.com/gem/1sPeVIqY5wtESVwGFn6kmgFNon0UXTV6S?usp=sharing)  
 * [Creating a Custom GPT in ChatGPT](https://help.openai.com/en/articles/8554397-creating-a-gpt) (this requires a paid ChatGPT account). Examples:  
   * [Alt Text Generator](https://chatgpt.com/g/g-67583ac30c508191b91e1fcfab611f31-alt-text-generator) \- describe an image  
   * [Hawkulus \- Calculus learning coach](https://chatgpt.com/g/g-68d992b987fc8191b6b394cb1dfd1593-hawkulus-calculus-learning-coach) \- ([system instructions](https://docs.google.com/document/d/1p2aeeVmstAASRUsgH52NLDmhghrhhsab2pvmyevnuYI/edit?usp=sharing))  
+  * See also these [5 GPTs for Instructors from the OpenAI Academy](https://academy.openai.com/public/blogs/built-for-better-teaching-5-gpts-every-faculty-member-should-use-2025-08-13)  
 * Other free or open source options  
   * [OnMicro](https://onmicro.ai/) \- [source code](https://github.com/onmicroai/micro_ai)  
   * [Axiom](https://axiomai.ca/)  
@@ -143,29 +143,29 @@ Tools to help you or your students research topics. Deep research is a new featu
 
 AI tools for generating images, videos, podcasts, music, 3D scenes, etc.
 
-* Generate Images  
+* **Generate Images**  
   * [Gemini nano banana](https://gemini.google/overview/image-generation/) \- best image generation tool. You can generate complex images like infographics and precisely edit images, too.  
   * Other options:   
     * ChatGPT \- see this [ChatGPT image prompting guide](https://developers.openai.com/cookbook/examples/multimodal/image-gen-1.5-prompting_guide)  
     * [Adobe Firefox](https://firefly.adobe.com/)  
     * [Microsoft Designer](https://designer.microsoft.com/)  
-* Generate Infographics  
+* **Generate Infographics**  
   * [Gemini \- generate infographic](https://www.controlaltachieve.com/2025/11/infographics.html)  
   * [NotebookLM \- generate infographic](https://support.google.com/notebooklm/answer/16758265?hl=en)  
     * [Sample infographic on ethical AI use](https://github.com/edtechdev/aipettingzoo/blob/main/docs/img/ai-literacy-infographic.png?raw=true)  
-* Generate Videos  
+* **Generate Videos**  
   * [Gemini Veo](https://gemini.google/overview/video-generation/)  
   * [Google Vids](https://workspace.google.com/products/vids/) \- sort of a combination of powerpoint and a video editor  
   * [NotebookLM \- generate video overview](https://support.google.com/notebooklm/answer/16454555?hl=en)  
     * [Sample video on using AI for learning](https://www.youtube.com/watch?v=-n-Yz5TcRn0)  
   * Other options ($$): [HeyGen](https://heygen.com/), [Wan](https://wan.video/), [Pika](https://pika.art/), [Synthesia](https://www.synthesia.io/)  
-* Generate Podcasts  
+* **Generate Podcasts**  
   * [NotebookLM \- generate audio overview](https://support.google.com/notebooklm/answer/16212820?hl=en)  
     * [Sample podcast on ethical AI use](https://www.youtube.com/watch?v=jWul22Xuj4w)  
-* Generate Music / Songs  
+* **Generate Music / Songs**  
   * [Google Gemini Lyria](https://gemini.google/overview/music-generation/) \- recently released by Google  
   * Other options: [Suno](https://suno.com/), [Udio](https://www.udio.com/)  
-* 3D Scenes / Games  
+* **Generate 3D Scenes / Games**  
   * [Project Genie](https://labs.google/projectgenie) \- from Google for generating 3D worlds  
   * [Omma](https://omma.build/) \- just released, can generate 3D scenes, games, web sites, apps
 
@@ -210,10 +210,12 @@ If you are incorporating AI into an activity, but want to see how students use i
 
 ### App Builders
 
-Generate interactive apps, web sites, simulations, and games with just natural language descriptions of what you want (vibe coding).
+Generate interactive apps, web sites, simulations, and games with just natural language descriptions of what you want (vibe coding). For some guidance and ideas on integrating interactive activities into instruction, see [How to Build Practice-Based Learning Activities with AI](https://drphilippahardman.substack.com/p/how-to-build-practice-based-learning).
 
 * Generate Mini Apps / Simulations / Web pages  
-  * [Gemini Canvas](https://gemini.google/overview/canvas/) \- option in Gemini to generate an interactive web app  
+  * [Gemini Canvas](https://gemini.google/overview/canvas/) \- option in Gemini to generate an interactive web app. These examples require being logged into Google/Gemini.  
+    * Sample [related rates simulation for calculus](https://gemini.google.com/share/8a48cda4366e)  
+    * Sample [time management quiz](https://gemini.google.com/share/970e66f49955)  
   * [Google Opal](https://opal.google/landing/?source=labs) \- new experimental tool to generate mini-apps, kind of slow  
   * [Claude Artifacts](https://www.descript.com/blog/article/artifacts-claude-ai) \- similar to Gemini Canvas  
 * Vibe Coding \- generate even more interactive resources with just natural language  
@@ -260,15 +262,26 @@ And see these other collections of educational prompts and Gemini Gems:
 
 ### Student Support
 
-#### Create a course chatbot
+#### Create materials for students
 
-See earlier AI Chatbots section for info on creating a custom AI chatbot for your course.
+Using AI to generate supportive learning materials for your students. Some of these your students could use themselves.
+
+* [NotebookLM](https://notebooklm.google/) \- use NotebookLM to create infographics, podcasts, slideshows, quizzes, flash cards, etc. for your course  
+* Gemini Gems  
+  * [Real World Examples](https://www.edugems.ai/gem/real-world-examples) \- Gemini Gem \- brainstorm 3 relevant, specific, and authentic real-world connections (i.e., specific current or historical events, or age-appropriate news stories) for any academic topic or learning objective  
+  * [Concept Analogies](https://www.edugems.ai/gem/concept-analogies) \- generating the full set of analogies with clear Mapping and Limitation sections  
+  * [Guided Notes](https://www.edugems.ai/gem/guided-notes) \- transform any source text (video transcript, article, short story, or textbook chapter) into Comprehensive Guided Notes that function as a valuable study artifact  
+  * [Worksheet](https://www.edugems.ai/gem/worksheet) \- create a highly customized worksheet for any learning experience, ensuring the formatting is clear for easy export to Google Docs or other word processors  
+  * [Student Assignment Feedback](https://www.edugems.ai/gem/student-assignment-feedback) \- helps students receive immediate, detailed, and constructive feedback on their assignments before submission
+
+See also the Generate an activity section below for tools for generating engaging activities for your students.
 
 #### Share prompts for students
 
 These sites share prompts that might be of use to students.
 
 * [100 prompts for college students](https://chatgpt.com/use-cases/students) \- from ChatGPT  
+* [Top 5 GPTs for students](https://academy.openai.com/public/blogs/ai-that-gets-you-top-5-gpts-for-students-2025-08-13) \- from OpenAI Academy  
 * [Ethan Mollick Student Aids](https://www.moreusefulthings.com/student-exercises) \- prompts for students
 
 #### Foster student AI literacy
@@ -283,6 +296,9 @@ See [AI Literacy Across the Curriculum](https://edtechdev.wordpress.com/2025/11/
 
 #### Create an AI course policy
 
+* **Custom AI Tools**  
+  * [Create AI Policy Statement for Syllabus](https://teacherserver.com/tool.php?id=687) \- on TeacherServer  
+  * [AI Expectations](https://www.edugems.ai/gem/ai-expectations) \- establish clear, pedagogy-driven AI boundaries for student assignments  
 * See [Deciding on an AI Course Policy](https://sites.google.com/ucsd.edu/crafting-a-genai-and-ai-policy/home/the-fundamentals/the-rationale-for-policy/deciding-course-policy) for some guidance and examples.  
 * Here also is a [list of some sample AI course policies](https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit?usp=sharing) from other schools and see below for a couple of sample ones for a composition course  
 * See also this [AI Policy Flowchart](https://www.umass.edu/ctl/how-do-i-consider-options-may-increase-likelihood-students-will-follow-my-generative-ai-course) and this [AI Continuum](https://ditchthattextbook.com/ai-cheating/) from "all AI" to "all human" coursework
@@ -303,7 +319,7 @@ It’s simple enough now for students to create their own custom apps, games, an
 
 * [Omma](https://omma.build/) \- brand new tool tool for generating games, apps, web sites, and 3D scenes  
 * [Google Opal](https://opal.google/landing/) \- generate mini-apps  
-* I was using the open source [Vibes DIY](https://vibes.diy/) but it’s down for now while they redesign it
+* I was using the free and open source [Vibes DIY](https://vibes.diy/) but it’s down for now while they redesign it
 
 #### Help students cope
 
@@ -320,23 +336,43 @@ People (including students) are also using ChatGPT and other AI chatbots for the
 
 #### Generate learning objectives
 
+#### Generate a lesson plan
+
+* [Lesson Plan](https://www.edugems.ai/gem/lesson-plan) \- Gemini Gem \-  clear instructions, differentiation strategies, and a suitable assessment, all tailored to your classroom context  
+* [Lesson Planner](https://chatgpt.com/g/g-giTfIDl1a-lesson-planner) \- custom GPT for lesson plans for teachers with included hyperlinks, videos, and resources
+
 #### Generate a presentation
 
 AI can create slideshow presentations for you now. AI is now also incorporated into standard presentation tools like Google Slides and PowerPoint.
 
+* Gemini Gems  
+  * [Slideshow Maker](https://www.edugems.ai/gem/slideshow-maker) \- transform raw information—such as articles, notes, or uploaded files—into engaging, complete slide deck presentations  
 * [Gamma.app](https://gamma.app/) \- here is a [sample site on which generative AI tool for your task](https://which-genai-tool-qjmdi3d.gamma.site/)  
 * Google has Gemini AI slideshow features in [Google Slides](https://workspace.google.com/resources/presentation-ai/) and [NotebookLM](https://support.google.com/notebooklm/answer/16757456?hl=en)  
 * Other options: [Canva](https://www.canva.com/), [MagicSlides](https://www.magicslides.app/), [SlidesGPT](https://slidesgpt.com/), [Beautiful.ai](https://www.beautiful.ai/)
 
-#### Generate an assignment
+#### Generate an activity
 
-See the [Transparent assignment template](https://canvas.instructure.com/courses/3168265/assignments/23559299?module_item_id=50271930) to clarify your activities.
+**Activities**
 
-#### Generate a discussion activity
+* [AI Role Play Interview](https://www.edugems.ai/gem/ai-role-play-interview) \- allows your students to conduct a Classroom Interview with an expert AI  
+* [AI Debate](https://www.edugems.ai/gem/ai-debate) \- allows your students to engage in a challenging, structured Point-Counterpoint debate with an expert AI
 
-#### Generate a group project
+**Assignments**
+
+* [Transparent Assignment Generator](https://gemini.google.com/gem/1gbbIFK5tP7cWZALvzXOSL3Lp8chuLrUF?usp=sharing) \- Gemini Gem \- uses the [Transparent assignment template](https://canvas.instructure.com/courses/3168265/assignments/23559299?module_item_id=50271930) to clarify your activities.  
+* [Scenario-based Learning Designer](https://teacherserver.com/tool.php?id=161) \- on TeacherServer
+
+**Discussions**
+
+* [Discussion Prompt Generator](https://teacherserver.com/tool.php?id=89) \- on TeacherServer  
+* [Discussion Prompts](https://www.edugems.ai/gem/discussion-prompts) \- Gemini Gem \- create a set of meaty, open-ended questions designed to stimulate meaningful classroom discussions
+
+See the [TeacherServer teaching section](https://teacherserver.com/teaching) for several other examples.
 
 #### Generate a syllabus
+
+* [Class Syllabus](https://www.edugems.ai/gem/class-syllabus) \- create a detailed and customized syllabus to clearly communicate your learning journey, expectations, and policies
 
 #### Generate a course or module
 
@@ -346,14 +382,11 @@ See the [Transparent assignment template](https://canvas.instructure.com/courses
 * **One-shot Course Building?** \- If you prompt a standard AI chatbot like Gemini or ChatGPT to build an entire course in one shot, it likely will either not do a great job or run out of memory/time. However, here are experiments on that, if you want to try:  
   * [Course Builder](https://www.playlab.ai/project/cmn8y9pex0vkjmi0wnq1tsjmu) \- testing this out in Playlab, it will likely time out before completing the entire course  
 * **Generate a Module** \- A compromise, middle way solution is to ask AI to generate a module, rather than an entire course. Here are experiments with that:  
+  * [Online Module Developer](https://teacherserver.com/tool.php?id=49) \- on TeacherServer  
   * [Online Module Designer](https://gemini.google.com/gem/1sPeVIqY5wtESVwGFn6kmgFNon0UXTV6S?usp=sharing) \- testing this Gemini Gem out  
 * **Semi-autonomous AI Agents** \- It is technically possible now to use AI agents to generate course materials, but it still requires some technical knowledge, it often has costs to use an AI API, and there are still some limitations. In this situation, an AI agent would work with you to first collect information about the course, then generate a plan, and then handoff the work in an iterative cycle to build each component of the course (with your input and feedback along each step of the way). Finally, it would export the course in a usable format (for example a web app or SCORM module or IMS common cartridge). Here’s an experiment with that:  
   * [Sample College Success course](https://liascript.github.io/course/?https://raw.githubusercontent.com/edtechdev/teaching-agent/refs/heads/main/collegesuccessold.md) generated in VS Code w/Copilot using [liascript teaching-agent](https://github.com/edtechdev/teaching-agent).    
     * Compare with this demo from three years ago of generating [liascript](https://liascript.github.io/) courses: [Eduweaver](https://github.com/aneesha/eduweaver)
-
-Other examples:
-
-* [Beautiful Canvas Pages in Seconds with AI](https://blogs.iu.edu/luddyteach/2026/01/09/beautiful-canvas-pages-in-seconds-with-ai/)
 
 **Getting materials into Canvas**
 
@@ -363,11 +396,29 @@ Other examples:
 
 ### Assessment
 
+#### Generate formative assessments
+
+Activities where students can learn from the assessment, or you can learn from them by collecting their feedback.
+
+* [Formative Assessment Generator](https://teacherserver.com/tool.php?id=150) \- on TeacherServer  
+* [Exit Ticket](https://www.edugems.ai/gem/exit-ticket) \- Gemini Gem \- create high-quality, targeted exit tickets to assess student understanding at the end of any lesson
+
 #### Generate a quiz
 
-#### Generate a rubric
+It’s probably easiest to just directly ask Gemini or NotebookLM to generate a quiz for you, but the more precise you are about what you want, the better result you’ll get. Remember you can iterate on it, suggest improvements, edits, etc. You can try asking Gemini or ChatGPT to convert a quiz into the QTI format for importing into Canvas, but it may not always work.
 
-* [Universal Rubric Designer for Canvas](https://chatgpt.com/g/g-6872fdeebbfc81919b181aed0a659447-universal-rubric-designer-for-canvas)
+* [YouTube Quiz](https://www.edugems.ai/gem/youtube-quiz) \- Gemini Gem \- generate a quiz based on a Youtube video.  
+* [Text-dependent Questions](https://www.edugems.ai/gem/text-dependent-questions) \- Gemini Gem \- generate a set of rigorous, text-dependent questions tied directly to any provided text or instructional content
+
+#### Generate rubrics/exemplars
+
+* [Rubric](https://www.edugems.ai/gem/rubric) \- Gemini Gem \- generate a detailed rubric for any assignment. It ensures the rubric's criteria are specific and measurable, the performance levels are distinct, and the overall design promotes fair and transparent grading for students.  
+* [Universal Rubric Designer for Canvas](https://chatgpt.com/g/g-6872fdeebbfc81919b181aed0a659447-universal-rubric-designer-for-canvas) \- Custom GPT  
+* [Rubric Generator](https://teacherserver.com/tool.php?id=44) \- on TeacherServer
+
+Providing examples (student exemplars) can sometimes be even more effective than rubrics (or you can use both):
+
+* [Exemplar & Non-Exemplar Responses](https://www.edugems.ai/gem/exemplar-non-exemplar-responses) \- quickly generate differentiated model student responses, including both high-quality (exemplar) and low-quality (non-exemplar), based on your assignment and rubric
 
 #### Authentic assessment
 
@@ -377,6 +428,8 @@ You might wish to explore alternate and more authentic assessment techniques by 
 
 In some cases, it might be appropriate for students to use AI as part of the activities, too (see examples below). One rule of thumb is to think about how an activity is done in the real world. Would they use AI to assist them? If so, it might be feasible to consider letting students use AI, too, in a controlled, guided manner.
 
+* [Real World Examples](https://www.edugems.ai/gem/real-world-examples) \- Gemini Gem \- brainstorm 3 relevant, specific, and authentic real-world connections (i.e., specific current or historical events, or age-appropriate news stories) for any academic topic or learning objective  
+* [Alternate Assessment](https://www.edugems.ai/gem/alternate-assessment) \- Gemini Gem \- generate high-quality alternate versions of your existing quizzes or tests  
 * [40 AI Alternate Assessment ideas](https://repository.jisc.ac.uk/9234/1/assessment-ideas-for-an-ai-enabled-world.pptx) (PPT)
 
 See also this [Alternative Assessment Guide](https://www.yorku.ca/bold/wp-content/uploads/sites/393/2020/11/Guide_Alternative_Assessments.pdf) and [35 example alternative assessments](https://alternative-assessment.com/?page_id=219).
@@ -390,7 +443,8 @@ Use AI to generate alt text descriptions of image, more accurate captions and tr
 Generate alternative text (alt text) descriptions of images, diagrams, charts, infographics...
 
 * [Image Accessibility Generator](https://teachonline.asu.edu/image-accessibility-generator/) \- from ASU generates a description of an image you upload  
-* [Alt Text Generator](https://chatgpt.com/g/g-67583ac30c508191b91e1fcfab611f31-alt-text-generator) is a ChatGPT bot created by CITT, based on the ASU one.  
+  * [Alt Text](https://www.edugems.ai/gem/alt-text) \- Gemini Gem version  
+  * [Alt Text Generator](https://chatgpt.com/g/g-67583ac30c508191b91e1fcfab611f31-alt-text-generator) is a ChatGPT bot created by CITT, based on the ASU one.  
 * And see this guide on [How to Write Alt Text](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/)
 
 #### Generate captions for a video
@@ -414,11 +468,17 @@ Generate accurate captions (with proper spelling, punctuation, ...) or transcrip
 
 AI can give students feedback, or suggest feedback to you as a starting point. Careful of ethical issues with using AI for grading.
 
+**AI Feedback Prompts and Custom Gems**
+
+* See the [Feedback Helper](https://academy.openai.com/public/blogs/built-for-better-teaching-5-gpts-every-faculty-member-should-use-2025-08-13) example at the bottom of that page  
+* Grading \- don’t share student information  
+  * [Grading Partner](https://www.edugems.ai/gem/grading-partner) \- Gemini Gem \- Acting as a supportive "Grading Partner" and co-teacher, it strictly adheres to your provided rubric to generate a two-part report: a formal evaluation for your records and a personalized feedback letter for the student  
+  * [ChatGPT Help with Grading](https://blog.tcea.org/chatgpt-grading/) \- don’t share student information 
+
+**AI Feedback Tools**
+
 * [Class Companion](https://classcompanion.com/) \- tutoring and feedback tool  
 * [Snorkl](https://snorkl.app/) \- digital whiteboard \- AI gives students feedback on problem solving process  
-* [ChatGPT Help with Grading](https://blog.tcea.org/chatgpt-grading/)  
-* [Using a marking rubric and ChatGPT to generate feedback](https://mediacentral.ucl.ac.uk/Play/96738)  
-* [Human vs. ChatGPT Writing Feedback](https://www.sciencedirect.com/science/article/pii/S0959475224000215?dgcid=author)  
 * [gotFeedback](https://www.gotfeedback.com/), [MyEssayFeedback](https://myessayfeedback.ai/)  
 * Instructor Feedback: [TeachFX](https://teachfx.com/), [Qualitatively Code Student Evaluations](https://arxiv.org/abs/2403.11984)
 
@@ -429,6 +489,5 @@ AI can give students feedback, or suggest feedback to you as a starting point. C
 
 For more tips, see this [Peer assessment handout](https://www.yorku.ca/teachingcommons/wp-content/uploads/sites/38/2023/01/Food_for_Thought-05-Peer-Assessment.pdf)
 
-#### Generate wise feedback
 
 
