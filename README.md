@@ -47,11 +47,6 @@ persistent: true
 </center>
 
 
-
-# AI Petting Zoo Resources
-
-See [**tinyurl.com/aipetzoo**](https://tinyurl.com/aipetzoo) 
-
 ## Tools
 
 Explore various types of AI tools in the left sidebar or by navigating below, including:
