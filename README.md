@@ -24,7 +24,17 @@ persistent: true
 @beforeAndAfter(docs/img/aipettingzoo.png,docs/img/pettingzoo.png)
 
 
-**Use the table of contents on the left to explore different AI tools and example tasks that may save you time and enhance student learninga and engagement in your courses.**
+**Use the table of contents on the left to explore different AI tools and example tasks that may save you time and enhance student learning and engagement in your courses.**
+
+
+**For a quick exploration of examples, check out:**
+
+* [**Gemini**](https://gemini.google.com) and its features like deep research, images, videos, canvas  
+* [**NotebookLM**](https://notebooklm.google/) and its features like podcasts, infographics, etc.  
+* [**Playlab**](https://www.playlab.ai/) \- requires going through a first training first, but see these sample chatbots  
+* [**Snorkl**](https://snorkl.app/) \- digital whiteboard that can give feedback to students as they work on problems  
+* [**EduGems**](https://www.edugems.ai/) and **[TeacherServer](https://teacherserver.com/teaching)** have collections of sample custom prompts and tools for instructors
+
 
 <center>
 **Short link to view this resource online:**
