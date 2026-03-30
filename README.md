@@ -514,3 +514,6 @@ For more tips, see this [Peer assessment handout](https://www.yorku.ca/teachingc
 * [Qualitatively Code Student Evaluations](https://arxiv.org/abs/2403.11984) \- article  
 * [TeachFX](https://teachfx.com/) \- Specialized AI Tool for Instructor Feedback 
 
+
+AI is not very good at teaching and evaluating teaching, because it’s not something you can learn from the Internet. See [Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact](https://arxiv.org/abs/2603.00883) ([podcast summary](https://drive.google.com/file/d/1n09DUMTNoaJuuZzDnBlocZ52MWWyYgw4/view?usp=drivesdk), [notebooklm notebook](https://notebooklm.google.com/notebook/dc805a41-0355-42cb-9db9-a6c1b45cb222)).
+
