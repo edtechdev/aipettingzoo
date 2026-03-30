@@ -30,27 +30,9 @@ persistent: true
 
 * [**Gemini**](https://gemini.google.com) and its features like deep research, images, videos, canvas  
 * [**NotebookLM**](https://notebooklm.google/) and its features like podcasts, infographics, etc.  
-* [**Playlab**](https://www.playlab.ai/) \- requires going through a first training first, but see these sample chatbots  
-* [**Snorkl**](https://snorkl.app/) \- digital whiteboard that can give feedback to students as they work on problems  
+* [**Playlab**](https://www.playlab.ai/) \- free but requires going through a training first, but see these [sample chatbots](https://www.playlab.ai/explore) created by instructors  
+* [**Snorkl**](https://snorkl.app/) \- digital whiteboard that can give feedback to students as they work on problems you assign  
 * [**EduGems**](https://www.edugems.ai/) and **[TeacherServer](https://teacherserver.com/teaching)** have collections of sample custom prompts and tools for instructors
-
-**For more collections of educational AI tools, see:**
-
-* [Which generative AI tool for your task](https://which-genai-tool-qjmdi3d.gamma.site/) \- by Nicole Hennig  
-* [Generative AI Tools \- A Petting Zoo](https://docs.google.com/document/d/1sSdF-gr55QXBsBbMwYzNNJrmjWXtp_Q6rUUTk5fRhxw/edit?tab=t.0) \- hundreds of resources from Joyce Valenza  
-* [Generative AI Product Tracker](https://sr.ithaka.org/our-work/generative-ai-product-tracker/) and [FuturePedia](https://www.futurepedia.io/) list hundreds of AI tools
-
-**And here are some collections of AI pedagogy resources and tips and examples:**
-
-* [Learn with AI](https://umaine.edu/learnwithai/) from U. Maine has several resources and strategies for adapting to AI in education  
-* [AI Prompting Guide for Online Course Design](https://docs.google.com/document/d/1MwpEKSxSlNLSBmrAWjQdksPF4QGZfoRQkvv2zbSefOo/edit?usp=sharing)  
-* [Exploring AI Pedagogy](https://exploringaipedagogy.hcommons.org/) \- a community collection from MLA  
-* Ethan Mollick has a [prompt library](https://www.moreusefulthings.com/prompts), sample student exercises, and other resources including a book on AI and a recent [article on new AI learning opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802463)  
-* Philippa Hardman has articles on [using AI to aid instructional design](https://drphilippahardman.substack.com/p/taker-maker-shaper?isFreemail=true&post_id=142415382&publication_id=926556&r=1gwis&triedRedirect=true)  
-* Free ebooks  
-  * [Generative Artificial Intelligence: Practical Uses in Education](https://pressbooks.openedmb.ca/aiineducation/)   
-  * [Teaching and Generative AI: Pedagogical Possibilities and Productive Tensions](https://www.usu.edu/empowerteaching/publications/books/teaching-ai/)
-
 
 
 
@@ -75,6 +57,21 @@ Explore various types of AI tools in the left sidebar or by navigating below, in
 * **Multimedia Tools** \- images, video, etc.  
 * **Process Tracking** \- tools for letting students show the process they used to do their work  
 * **Vibe Coding** \- create interactive apps and websites and games
+
+**For more collections of educational AI tools, see:**
+
+* [Which generative AI tool for your task](https://which-genai-tool-qjmdi3d.gamma.site/) \- by Nicole Hennig  
+* [Generative AI Tools \- A Petting Zoo](https://docs.google.com/document/d/1sSdF-gr55QXBsBbMwYzNNJrmjWXtp_Q6rUUTk5fRhxw/edit?tab=t.0) \- hundreds of resources from Joyce Valenza  
+* [Generative AI Product Tracker](https://sr.ithaka.org/our-work/generative-ai-product-tracker/) and [FuturePedia](https://www.futurepedia.io/) list hundreds of AI tools
+
+**And here are some collections of AI pedagogy resources and tips and examples:**
+
+* [Learn with AI](https://umaine.edu/learnwithai/) from U. Maine has several resources and strategies for adapting to AI in education  
+* [AI Prompting Guide for Online Course Design](https://docs.google.com/document/d/1MwpEKSxSlNLSBmrAWjQdksPF4QGZfoRQkvv2zbSefOo/edit?usp=sharing)  
+* [Exploring AI Pedagogy](https://exploringaipedagogy.hcommons.org/) \- a community collection from MLA  
+* Free ebooks  
+  * [Generative Artificial Intelligence: Practical Uses in Education](https://pressbooks.openedmb.ca/aiineducation/)   
+  * [Teaching and Generative AI: Pedagogical Possibilities and Productive Tensions](https://www.usu.edu/empowerteaching/publications/books/teaching-ai/)
 
 ### AI Chatbots
 
@@ -433,4 +430,5 @@ AI can give students feedback, or suggest feedback to you as a starting point. C
 For more tips, see this [Peer assessment handout](https://www.yorku.ca/teachingcommons/wp-content/uploads/sites/38/2023/01/Food_for_Thought-05-Peer-Assessment.pdf)
 
 #### Generate wise feedback
+
 
