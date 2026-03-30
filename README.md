@@ -26,14 +26,32 @@ persistent: true
 
 **Use the table of contents on the left to explore different AI tools and example tasks that may save you time and enhance student learning and engagement in your courses.**
 
-
-**For a quick exploration of examples, check out:**
+**For a quick exploration of tools, check out:**
 
 * [**Gemini**](https://gemini.google.com) and its features like deep research, images, videos, canvas  
 * [**NotebookLM**](https://notebooklm.google/) and its features like podcasts, infographics, etc.  
 * [**Playlab**](https://www.playlab.ai/) \- requires going through a first training first, but see these sample chatbots  
 * [**Snorkl**](https://snorkl.app/) \- digital whiteboard that can give feedback to students as they work on problems  
 * [**EduGems**](https://www.edugems.ai/) and **[TeacherServer](https://teacherserver.com/teaching)** have collections of sample custom prompts and tools for instructors
+
+**For more collections of educational AI tools, see:**
+
+* [Which generative AI tool for your task](https://which-genai-tool-qjmdi3d.gamma.site/) \- by Nicole Hennig  
+* [Generative AI Tools \- A Petting Zoo](https://docs.google.com/document/d/1sSdF-gr55QXBsBbMwYzNNJrmjWXtp_Q6rUUTk5fRhxw/edit?tab=t.0) \- hundreds of resources from Joyce Valenza  
+* [Generative AI Product Tracker](https://sr.ithaka.org/our-work/generative-ai-product-tracker/) and [FuturePedia](https://www.futurepedia.io/) list hundreds of AI tools
+
+**And here are some collections of AI pedagogy resources and tips and examples:**
+
+* [Learn with AI](https://umaine.edu/learnwithai/) from U. Maine has several resources and strategies for adapting to AI in education  
+* [AI Prompting Guide for Online Course Design](https://docs.google.com/document/d/1MwpEKSxSlNLSBmrAWjQdksPF4QGZfoRQkvv2zbSefOo/edit?usp=sharing)  
+* [Exploring AI Pedagogy](https://exploringaipedagogy.hcommons.org/) \- a community collection from MLA  
+* Ethan Mollick has a [prompt library](https://www.moreusefulthings.com/prompts), sample student exercises, and other resources including a book on AI and a recent [article on new AI learning opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802463)  
+* Philippa Hardman has articles on [using AI to aid instructional design](https://drphilippahardman.substack.com/p/taker-maker-shaper?isFreemail=true&post_id=142415382&publication_id=926556&r=1gwis&triedRedirect=true)  
+* Free ebooks  
+  * [Generative Artificial Intelligence: Practical Uses in Education](https://pressbooks.openedmb.ca/aiineducation/)   
+  * [Teaching and Generative AI: Pedagogical Possibilities and Productive Tensions](https://www.usu.edu/empowerteaching/publications/books/teaching-ai/)
+
+
 
 
 <center>
@@ -47,6 +65,7 @@ persistent: true
 </center>
 
 
+
 ## Tools
 
 Explore various types of AI tools in the left sidebar or by navigating below, including:
@@ -54,24 +73,8 @@ Explore various types of AI tools in the left sidebar or by navigating below, in
 * **AI Chatbots** \- general purpose AI chatbots including Gemini, Claude, and ChatGPT  
 * **Research Tools** \- for you and your students  
 * **Multimedia Tools** \- images, video, etc.  
+* **Process Tracking** \- tools for letting students show the process they used to do their work  
 * **Vibe Coding** \- create interactive apps and websites and games
-
-For more collections of educational AI tools, see:
-
-* [Which generative AI tool for your task](https://which-genai-tool-qjmdi3d.gamma.site/) \- by Nicole Hennig  
-* [Generative AI Tools \- A Petting Zoo](https://docs.google.com/document/d/1sSdF-gr55QXBsBbMwYzNNJrmjWXtp_Q6rUUTk5fRhxw/edit?tab=t.0) \- hundreds of resources from Joyce Valenza  
-* [Generative AI Product Tracker](https://sr.ithaka.org/our-work/generative-ai-product-tracker/) and [FuturePedia](https://www.futurepedia.io/) list hundreds of AI tools
-
-And here are some collections of AI pedagogy resources and tips and examples:
-
-* [Learn with AI](https://umaine.edu/learnwithai/) from U. Maine has several resources and strategies for adapting to AI in education  
-* [AI Prompting Guide for Online Course Design](https://docs.google.com/document/d/1MwpEKSxSlNLSBmrAWjQdksPF4QGZfoRQkvv2zbSefOo/edit?usp=sharing)  
-* [Exploring AI Pedagogy](https://exploringaipedagogy.hcommons.org/) \- a community collection from MLA  
-* Ethan Mollick has a [prompt library](https://www.moreusefulthings.com/prompts), sample student exercises, and other resources including a book on AI and a recent [article on new AI learning opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802463)  
-* Philippa Hardman has articles on [using AI to aid instructional design](https://drphilippahardman.substack.com/p/taker-maker-shaper?isFreemail=true&post_id=142415382&publication_id=926556&r=1gwis&triedRedirect=true)  
-* Free ebooks  
-  * [Generative Artificial Intelligence: Practical Uses in Education](https://pressbooks.openedmb.ca/aiineducation/)   
-  * [Teaching and Generative AI: Pedagogical Possibilities and Productive Tensions](https://www.usu.edu/empowerteaching/publications/books/teaching-ai/)
 
 ### AI Chatbots
 
@@ -79,7 +82,6 @@ General purpose AI chatbots. These chat apps can do more than text chat \- they 
 .
 
 * [Gemini](https://gemini.google.com/app) \- from Google, with a huge [ecosystem of supporting AI apps](https://ai.google/products/), including [NotebookLM](https://notebooklm.google/). Students can get a [free year of Gemini Pro](https://gemini.google/students/).  
-*   
 * [Claude](https://claude.ai) \- good at creative writing and coding ([Claude Code](https://claude.com/product/claude-code)), but can get expensive.  
 * [ChatGPT](https://chatgpt.com/) \- most popular chatbot. Requires paying for Pro account to create custom GPTs.  
 * [HuggingChat](https://huggingface.co/chat/) \- free, private, and open source. Part of [HuggingFace](https://huggingface.co/), a repository of open weight and open source AI models and data sets. See their interactive [Spaces](https://huggingface.co/spaces), including [OCR apps](https://huggingface.co/spaces?category=ocr&sort=trending)  
@@ -95,7 +97,6 @@ Create an AI chatbot your students can use for learning support.
   * [Ethical AI Use for Academic Success](https://notebooklm.google.com/notebook/0fed3ab1-baee-4fb9-bbc8-85a4b016330d)  
   * You can also use NotebookLM to research and explain topics for you. For example:  
     * [Strategies for Reducing Student Misuse of AI](https://notebooklm.google.com/notebook/e1f0f224-4f6c-465b-b7e5-546569528b87) \- see also this [presentation on the topic](https://docs.google.com/presentation/d/1htjhjS7-cLx8BfdL2aZZ40B8opUz1ckZedcxmeJYUco/edit?usp=sharing)  
-    * [DFW Rates in Gateway Courses](https://notebooklm.google.com/notebook/75e82faa-e877-48b5-b379-ed0e8a7cd8aa)  
 * [Playlab](https://www.playlab.ai/) \- completely free to create custom chatbots. You can attach files and resources. Designed for educators. You can see student chat logs.  
   * [Sample Playlab apps](https://www.playlab.ai/explore)  
   * [Course builder](https://www.playlab.ai/project/cmn8y9pex0vkjmi0wnq1tsjmu) \- testing this out, may time out  
@@ -113,7 +114,7 @@ Create an AI chatbot your students can use for learning support.
 * Prebuilt tutoring chatbots  
   * [AI Tutor Pro](https://www.aitutorpro.ca) & [AI Teaching Assistant Pro](https://www.aiteachingassistantpro.ca/)
 
-See the Tasks section for several specific custom chatbot prompts and Gems.
+See the Tasks section below for several specific custom chatbot prompts and Gems.
 
 ### Teaching Tools
 
@@ -147,24 +148,31 @@ AI tools for generating images, videos, podcasts, music, 3D scenes, etc.
 
 * Generate Images  
   * [Gemini nano banana](https://gemini.google/overview/image-generation/) \- best image generation tool. You can generate complex images like infographics and precisely edit images, too.  
-  * Infographics  
-    * [Gemini \- generate infographic](https://www.controlaltachieve.com/2025/11/infographics.html)  
-    * [NotebookLM \- generate infographic](https://support.google.com/notebooklm/answer/16758265?hl=en)  
-      * [Sample infographic on ethical AI use](https://github.com/edtechdev/aipettingzoo/blob/main/docs/img/ai-literacy-infographic.png?raw=true)  
+  * Other options:   
+    * ChatGPT \- see this [ChatGPT image prompting guide](https://developers.openai.com/cookbook/examples/multimodal/image-gen-1.5-prompting_guide)  
+    * [Adobe Firefox](https://firefly.adobe.com/)  
+    * [Microsoft Designer](https://designer.microsoft.com/)  
+* Generate Infographics  
+  * [Gemini \- generate infographic](https://www.controlaltachieve.com/2025/11/infographics.html)  
+  * [NotebookLM \- generate infographic](https://support.google.com/notebooklm/answer/16758265?hl=en)  
+    * [Sample infographic on ethical AI use](https://github.com/edtechdev/aipettingzoo/blob/main/docs/img/ai-literacy-infographic.png?raw=true)  
 * Generate Videos  
   * [Gemini Veo](https://gemini.google/overview/video-generation/)  
   * [Google Vids](https://workspace.google.com/products/vids/) \- sort of a combination of powerpoint and a video editor  
   * [NotebookLM \- generate video overview](https://support.google.com/notebooklm/answer/16454555?hl=en)  
     * [Sample video on using AI for learning](https://www.youtube.com/watch?v=-n-Yz5TcRn0)  
-* Generate Audio / Podcasts  
+  * Other options ($$): [HeyGen](https://heygen.com/), [Wan](https://wan.video/), [Pika](https://pika.art/), [Synthesia](https://www.synthesia.io/)  
+* Generate Podcasts  
   * [NotebookLM \- generate audio overview](https://support.google.com/notebooklm/answer/16212820?hl=en)  
     * [Sample podcast on ethical AI use](https://www.youtube.com/watch?v=jWul22Xuj4w)  
 * Generate Music / Songs  
   * [Google Gemini Lyria](https://gemini.google/overview/music-generation/) \- recently released by Google  
-  * [Suno](https://suno.com/)  
+  * Other options: [Suno](https://suno.com/), [Udio](https://www.udio.com/)  
 * 3D Scenes / Games  
   * [Project Genie](https://labs.google/projectgenie) \- from Google for generating 3D worlds  
   * [Omma](https://omma.build/) \- just released, can generate 3D scenes, games, web sites, apps
+
+See also other [Google Labs Experiments](https://labs.google/experiments).
 
 ### Process Tracking
 
@@ -425,5 +433,4 @@ AI can give students feedback, or suggest feedback to you as a starting point. C
 For more tips, see this [Peer assessment handout](https://www.yorku.ca/teachingcommons/wp-content/uploads/sites/38/2023/01/Food_for_Thought-05-Peer-Assessment.pdf)
 
 #### Generate wise feedback
-
 
