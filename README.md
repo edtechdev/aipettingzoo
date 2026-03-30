@@ -46,7 +46,6 @@ persistent: true
 </center>
 
 
-
 ## Tools
 
 Explore various types of AI tools in the left sidebar or by navigating below, including:
@@ -268,6 +267,7 @@ Using AI to generate supportive learning materials for your students. Some of th
 
 * [NotebookLM](https://notebooklm.google/) \- use NotebookLM to create infographics, podcasts, slideshows, quizzes, flash cards, etc. for your course  
 * Gemini Gems  
+  * [Demonstrate a concept](https://gemini.google.com/?prompt_id=uGiQ5jvIMlNh) \- Gemini prompt  
   * [Real World Examples](https://www.edugems.ai/gem/real-world-examples) \- Gemini Gem \- brainstorm 3 relevant, specific, and authentic real-world connections (i.e., specific current or historical events, or age-appropriate news stories) for any academic topic or learning objective  
   * [Concept Analogies](https://www.edugems.ai/gem/concept-analogies) \- generating the full set of analogies with clear Mapping and Limitation sections  
   * [Guided Notes](https://www.edugems.ai/gem/guided-notes) \- transform any source text (video transcript, article, short story, or textbook chapter) into Comprehensive Guided Notes that function as a valuable study artifact  
@@ -298,7 +298,7 @@ See [AI Literacy Across the Curriculum](https://edtechdev.wordpress.com/2025/11/
 
 * **Custom AI Tools**  
   * [Create AI Policy Statement for Syllabus](https://teacherserver.com/tool.php?id=687) \- on TeacherServer  
-  * [AI Expectations](https://www.edugems.ai/gem/ai-expectations) \- establish clear, pedagogy-driven AI boundaries for student assignments  
+  * [AI Expectations](https://www.edugems.ai/gem/ai-expectations) \- Gemini Gem \- establish clear, pedagogy-driven AI boundaries for student assignments  
 * See [Deciding on an AI Course Policy](https://sites.google.com/ucsd.edu/crafting-a-genai-and-ai-policy/home/the-fundamentals/the-rationale-for-policy/deciding-course-policy) for some guidance and examples.  
 * Here also is a [list of some sample AI course policies](https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit?usp=sharing) from other schools and see below for a couple of sample ones for a composition course  
 * See also this [AI Policy Flowchart](https://www.umass.edu/ctl/how-do-i-consider-options-may-increase-likelihood-students-will-follow-my-generative-ai-course) and this [AI Continuum](https://ditchthattextbook.com/ai-cheating/) from "all AI" to "all human" coursework
@@ -332,9 +332,21 @@ It’s simple enough now for students to create their own custom apps, games, an
 
 People (including students) are also using ChatGPT and other AI chatbots for therapy, and while these can be [effective](https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits) if carefully designed and controlled, there can be serious [ethical risks](https://www.sciencedaily.com/releases/2026/03/260302030642.htm) if not.
 
+#### Career development
+
+* [Google Career Dreamer](https://grow.google/career-dreamer/home/) \- students can research their career interests and the job market. It creates a custom career coach for you in Gemini at the end of the process  
+* [Job Interview Coach](https://www.edugems.ai/gem/job-interview-coach) \- Gemini Gem  
+* [Write Reference Letter](https://teacherserver.com/tool.php?id=50) \- on TeacherServer  
+* [Recommendation Letter](https://www.edugems.ai/gem/recommendation-letter) \- Gemini Gem
+
 ### Course Design
 
 #### Generate learning objectives
+
+* [SMART Learning Objectives Creator](https://gemini.google.com/gem/12Dr4LgXDXEui6KpdMoW0S6Ro101zotrE?usp=sharing) \- Gemini Gem based on this [guide on SMART learning objectives](https://ctltoolkit.s3.amazonaws.com/shelf/BSPHCTLLearningObjectivesGuide.pdf)  
+* [Simplify learning objectives](https://gemini.google.com/?prompt_id=1s6phDtDsDCb) \- Gemini prompt  
+* [Learning Objective Designer](https://chatgpt.com/g/g-jKlf8hRW2-learning-objective-designer)  \- custom GPT  
+* [Learning Objective Creator](https://chatgpt.com/g/g-fe2iwBCJ9-learning-objective-creator) \- custom GPT
 
 #### Generate a lesson plan
 
@@ -355,6 +367,7 @@ AI can create slideshow presentations for you now. AI is now also incorporated i
 
 **Activities**
 
+* [Design student-centered activities](https://gemini.google.com/?prompt_id=U7mTFYZsq0b0) \- Gemini prompt  
 * [AI Role Play Interview](https://www.edugems.ai/gem/ai-role-play-interview) \- allows your students to conduct a Classroom Interview with an expert AI  
 * [AI Debate](https://www.edugems.ai/gem/ai-debate) \- allows your students to engage in a challenging, structured Point-Counterpoint debate with an expert AI
 
@@ -372,6 +385,7 @@ See the [TeacherServer teaching section](https://teacherserver.com/teaching) for
 
 #### Generate a syllabus
 
+* [Draft a class syllabus](https://gemini.google.com/?prompt_id=kwwF9XOV9aSe) \- Gemini prompt  
 * [Class Syllabus](https://www.edugems.ai/gem/class-syllabus) \- create a detailed and customized syllabus to clearly communicate your learning journey, expectations, and policies
 
 #### Generate a course or module
@@ -381,6 +395,7 @@ See the [TeacherServer teaching section](https://teacherserver.com/teaching) for
   * Philippa Hardman has articles on [using AI to aid instructional design](https://drphilippahardman.substack.com/p/taker-maker-shaper?isFreemail=true&post_id=142415382&publication_id=926556&r=1gwis&triedRedirect=true)  
 * **One-shot Course Building?** \- If you prompt a standard AI chatbot like Gemini or ChatGPT to build an entire course in one shot, it likely will either not do a great job or run out of memory/time. However, here are experiments on that, if you want to try:  
   * [Course Builder](https://www.playlab.ai/project/cmn8y9pex0vkjmi0wnq1tsjmu) \- testing this out in Playlab, it will likely time out before completing the entire course  
+  * [SCORM Course Builder](https://chatgpt.com/g/g-vj3Fiz8Q5-scorm-course-builder) \- Custom GPT \- SCORM is a format that can be imported into your LMS. This had some issues when I tried it  
 * **Generate a Module** \- A compromise, middle way solution is to ask AI to generate a module, rather than an entire course. Here are experiments with that:  
   * [Online Module Developer](https://teacherserver.com/tool.php?id=49) \- on TeacherServer  
   * [Online Module Designer](https://gemini.google.com/gem/1sPeVIqY5wtESVwGFn6kmgFNon0UXTV6S?usp=sharing) \- testing this Gemini Gem out  
@@ -407,6 +422,7 @@ Activities where students can learn from the assessment, or you can learn from t
 
 It’s probably easiest to just directly ask Gemini or NotebookLM to generate a quiz for you, but the more precise you are about what you want, the better result you’ll get. Remember you can iterate on it, suggest improvements, edits, etc. You can try asking Gemini or ChatGPT to convert a quiz into the QTI format for importing into Canvas, but it may not always work.
 
+* [Generate a quiz](https://gemini.google.com/?prompt_id=ukQf42NvlKym) \- Gemini prompt  
 * [YouTube Quiz](https://www.edugems.ai/gem/youtube-quiz) \- Gemini Gem \- generate a quiz based on a Youtube video.  
 * [Text-dependent Questions](https://www.edugems.ai/gem/text-dependent-questions) \- Gemini Gem \- generate a set of rigorous, text-dependent questions tied directly to any provided text or instructional content
 
@@ -428,6 +444,7 @@ You might wish to explore alternate and more authentic assessment techniques by 
 
 In some cases, it might be appropriate for students to use AI as part of the activities, too (see examples below). One rule of thumb is to think about how an activity is done in the real world. Would they use AI to assist them? If so, it might be feasible to consider letting students use AI, too, in a controlled, guided manner.
 
+* [Brainstorm Real World Examples](https://gemini.google.com/?prompt_id=mHLf8EnJK3LL) \- Gemini prompt  
 * [Real World Examples](https://www.edugems.ai/gem/real-world-examples) \- Gemini Gem \- brainstorm 3 relevant, specific, and authentic real-world connections (i.e., specific current or historical events, or age-appropriate news stories) for any academic topic or learning objective  
 * [Alternate Assessment](https://www.edugems.ai/gem/alternate-assessment) \- Gemini Gem \- generate high-quality alternate versions of your existing quizzes or tests  
 * [40 AI Alternate Assessment ideas](https://repository.jisc.ac.uk/9234/1/assessment-ideas-for-an-ai-enabled-world.pptx) (PPT)
@@ -475,19 +492,25 @@ AI can give students feedback, or suggest feedback to you as a starting point. C
   * [Grading Partner](https://www.edugems.ai/gem/grading-partner) \- Gemini Gem \- Acting as a supportive "Grading Partner" and co-teacher, it strictly adheres to your provided rubric to generate a two-part report: a formal evaluation for your records and a personalized feedback letter for the student  
   * [ChatGPT Help with Grading](https://blog.tcea.org/chatgpt-grading/) \- don’t share student information 
 
-**AI Feedback Tools**
+**AI Student Feedback Tools**
 
 * [Class Companion](https://classcompanion.com/) \- tutoring and feedback tool  
 * [Snorkl](https://snorkl.app/) \- digital whiteboard \- AI gives students feedback on problem solving process  
-* [gotFeedback](https://www.gotfeedback.com/), [MyEssayFeedback](https://myessayfeedback.ai/)  
-* Instructor Feedback: [TeachFX](https://teachfx.com/), [Qualitatively Code Student Evaluations](https://arxiv.org/abs/2403.11984)
+* [gotFeedback](https://www.gotfeedback.com/), [MyEssayFeedback](https://myessayfeedback.ai/)
 
-#### Peer assessment/review
+#### Peer review
+
+**For student peer review activities:**
 
 * [Peer & AI Review \+ Reflection (PAIRR)](https://writing.ucdavis.edu/pairr)  
 * You can also do [peer review assignments in Canvas](https://community.instructure.com/en/kb/articles/660695-how-do-i-use-peer-review-assignments-in-a-course)
 
 For more tips, see this [Peer assessment handout](https://www.yorku.ca/teachingcommons/wp-content/uploads/sites/38/2023/01/Food_for_Thought-05-Peer-Assessment.pdf)
 
+#### Course/Faculty review
 
+* [OSCQR Course Evaluator](https://chatgpt.com/g/g-6898db9876348191a6f9be7f8fa14dca-oscqr-4-1-course-evaluator) \- custom GPT ([usage guide](https://drive.google.com/file/d/1NGwVUXxlh_GZ4fNZ6zDCTP0ypoJLsT2Z/view)) \- evaluate your online course according to the [OSCQR rubric](https://oscqr.suny.edu/)  
+* [Peer Teaching Evaluation](https://teacherserver.com/tool.php?id=77) \- on TeacherServer  
+* [Qualitatively Code Student Evaluations](https://arxiv.org/abs/2403.11984) \- article  
+* [TeachFX](https://teachfx.com/) \- Specialized AI Tool for Instructor Feedback 
 
