@@ -28,11 +28,12 @@ persistent: true
 
 **For a quick exploration of tools, check out:**
 
-* [**Gemini**](https://gemini.google.com) and its features like deep research, images, videos, canvas  
-* [**NotebookLM**](https://notebooklm.google/) and its features like podcasts, infographics, etc.  
+* [**Gemini**](https://gemini.google.com) and its features like deep research, images, videos, canvas.  
+* [**NotebookLM**](https://notebooklm.google/) and its features like podcasts, infographics, etc. Sample notebooks: [OpenStax notebooks](https://workspaceupdates.googleblog.com/2025/09/public-notebooks-partnership-with-openstax.html), [ethical AI use](https://notebooklm.google.com/notebook/0fed3ab1-baee-4fb9-bbc8-85a4b016330d) (w/[infographic](https://github.com/edtechdev/aipettingzoo/blob/main/docs/img/ai-literacy-infographic.png?raw=true), [video](https://www.youtube.com/watch?v=-n-Yz5TcRn0), [podcast](https://www.youtube.com/watch?v=jWul22Xuj4w)), [reducing student misuse of AI](https://notebooklm.google.com/notebook/e1f0f224-4f6c-465b-b7e5-546569528b87) (and corresponding [presentation](https://docs.google.com/presentation/d/1htjhjS7-cLx8BfdL2aZZ40B8opUz1ckZedcxmeJYUco/edit?usp=sharing)).  
 * [**Playlab**](https://www.playlab.ai/) \- free but requires going through a training first, but see these [sample chatbots](https://www.playlab.ai/explore) created by instructors  
 * [**Snorkl**](https://snorkl.app/) \- digital whiteboard that can give feedback to students as they work on problems you assign  
-* [**EduGems**](https://www.edugems.ai/) and **[TeacherServer](https://teacherserver.com/teaching)** have collections of sample custom prompts and tools for instructors
+* [**Omma**](https://omma.build/) and [**Opal**](https://opal.google/landing/) let you quickly create an app, website, game, or 3D scene. Sample apps: [pomodoro timer](https://omma.build/p/hawktimer-pomodoro-study-app-nu3ajg), [AI petting zoo site](https://omma.build/p/ai-petting-zoo-for-educators-wkzuq9) (Omma) and [course architect](https://opal.google/app/1baxY9N3N1kcG47cwSXl-Yluiz1Dotpnv) (Opal).  
+* [**EduGems**](https://www.edugems.ai/) and **[TeacherServer](https://teacherserver.com/teaching)** have collections of sample custom prompts and tools for instructors. I’ve selected several examples in the Tasks section of this site.
 
 
 <center>
@@ -89,7 +90,7 @@ Create an AI chatbot your students can use for learning support.
 * [NotebookLM](https://notebooklm.google/) \- upload your course materials and share the link to the notebook, which students can use to answer questions and generate study materials. NotebookLM can be used to generate ancillary materials such as podcasts, videos, infographics, quizzes, flash cards, etc. Examples:  
   * [Public NotebookLM notebooks for OpenStax textbooks](https://workspaceupdates.googleblog.com/2025/09/public-notebooks-partnership-with-openstax.html)  
   * [College Success](https://notebooklm.google.com/notebook/3aa47a4d-ed3c-4c73-b11e-793d8ce95627) \- notebook with the OpenStax College Success book attached  
-  * [Ethical AI Use for Academic Success](https://notebooklm.google.com/notebook/0fed3ab1-baee-4fb9-bbc8-85a4b016330d)  
+  * [Ethical AI Use for Academic Success](https://notebooklm.google.com/notebook/0fed3ab1-baee-4fb9-bbc8-85a4b016330d) \- used to generate this [infographic](https://github.com/edtechdev/aipettingzoo/blob/main/docs/img/ai-literacy-infographic.png?raw=true), [video](https://www.youtube.com/watch?v=-n-Yz5TcRn0), and [podcast](https://www.youtube.com/watch?v=jWul22Xuj4w)  
   * You can also use NotebookLM to research and explain topics for you. For example:  
     * [Strategies for Reducing Student Misuse of AI](https://notebooklm.google.com/notebook/e1f0f224-4f6c-465b-b7e5-546569528b87) \- see also this [presentation on the topic](https://docs.google.com/presentation/d/1htjhjS7-cLx8BfdL2aZZ40B8opUz1ckZedcxmeJYUco/edit?usp=sharing)  
 * [Playlab](https://www.playlab.ai/) \- completely free to create custom chatbots. You can attach files and resources. Designed for educators. You can see student chat logs.  
@@ -394,7 +395,8 @@ See the [TeacherServer teaching section](https://teacherserver.com/teaching) for
   * [AI Prompting Guide for Online Course Design](https://docs.google.com/document/d/1MwpEKSxSlNLSBmrAWjQdksPF4QGZfoRQkvv2zbSefOo/edit?usp=sharing) \- collection of suggested prompts for building an online course piece by piece  
   * Philippa Hardman has articles on [using AI to aid instructional design](https://drphilippahardman.substack.com/p/taker-maker-shaper?isFreemail=true&post_id=142415382&publication_id=926556&r=1gwis&triedRedirect=true)  
 * **One-shot Course Building?** \- If you prompt a standard AI chatbot like Gemini or ChatGPT to build an entire course in one shot, it likely will either not do a great job or run out of memory/time. However, here are experiments on that, if you want to try:  
-  * [Course Builder](https://www.playlab.ai/project/cmn8y9pex0vkjmi0wnq1tsjmu) \- testing this out in Playlab, it will likely time out before completing the entire course  
+  * [Course Architect](https://opal.google/app/1baxY9N3N1kcG47cwSXl-Yluiz1Dotpnv) \- created in Google Opal, doesn’t really generate an extensive course  
+  * [Course Builder](https://www.playlab.ai/project/cmn8y9pex0vkjmi0wnq1tsjmu) \- testing this out in Playlabb. It starts out fairly well, but times out before completing the entire course  
   * [SCORM Course Builder](https://chatgpt.com/g/g-vj3Fiz8Q5-scorm-course-builder) \- Custom GPT \- SCORM is a format that can be imported into your LMS. This had some issues when I tried it  
 * **Generate a Module** \- A compromise, middle way solution is to ask AI to generate a module, rather than an entire course. Here are experiments with that:  
   * [Online Module Developer](https://teacherserver.com/tool.php?id=49) \- on TeacherServer  
@@ -514,6 +516,24 @@ For more tips, see this [Peer assessment handout](https://www.yorku.ca/teachingc
 * [Qualitatively Code Student Evaluations](https://arxiv.org/abs/2403.11984) \- article  
 * [TeachFX](https://teachfx.com/) \- Specialized AI Tool for Instructor Feedback 
 
+### Evaluating AI
 
-AI is not very good at teaching and evaluating teaching, because it’s not something you can learn from the Internet. See [Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact](https://arxiv.org/abs/2603.00883) ([podcast summary](https://drive.google.com/file/d/1n09DUMTNoaJuuZzDnBlocZ52MWWyYgw4/view?usp=drivesdk), [notebooklm notebook](https://notebooklm.google.com/notebook/dc805a41-0355-42cb-9db9-a6c1b45cb222)).
+AI is not very good at teaching and evaluating teaching, because it’s not something you can learn from the Internet. You might say current AI is “book smart” but not street smart, in a way. AI also suffers from sycophancy, biases, and other issues that aren’t going away anytime soon. See [Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact](https://arxiv.org/abs/2603.00883) ([podcast summary](https://drive.google.com/file/d/1n09DUMTNoaJuuZzDnBlocZ52MWWyYgw4/view?usp=drivesdk), [notebooklm notebook](https://notebooklm.google.com/notebook/dc805a41-0355-42cb-9db9-a6c1b45cb222)). 
+
+But of course there are many things AI is very good at and getting better at that can be helpful for educators and students. Still, it is useful to also be aware of AI limitations and risks as an educator or student, as well.
+
+Here are some benchmarks and leaderboards evaluating the capabilities and limitations of AI, especially with respect to teaching and learning:
+
+* [Pedagogy Benchmark Leaderboard](https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks?benchmark=CDPK&models=%5B%5D&cost=10&pageView=table&dataset=) \- which AI models have the best pedagogical knowledge (textbook-like knowledge)  
+* [Can Your LLM Think Like a Professional? Introducing ProfBench](https://huggingface.co/blog/nvidia/profbench)  
+* [Artificial Analysis Openness Index](https://artificialanalysis.ai/evaluations/artificial-analysis-openness-index) \- which AI models are most open, in terms of sharing their code and training data. The most open have been from the Allen Institute: try [Olmo](https://playground.allenai.org/) and [OlmOCR](https://olmocr.allenai.org/).  
+* [OCR Arena](https://www.ocrarena.ai/battle) \- which AI models are best at OCR tasks, which can be useful for accessibility. Try the [open OCR models](https://huggingface.co/spaces?category=ocr&sort=trending) at huggingface. 
+* [RAID AI Detection Benchmark](https://raid-bench.xyz/leaderboard) \- how good are different AI detectors  
+* Math  
+  * [MathTutorBench](https://eth-lre.github.io/mathtutorbench/) \- Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors  
+  * [DrawEduMath](https://drawedumath.org/) \- Evaluating Vision Language Models with Expert-Annotated Students' Hand-Drawn Math Images   
+  * [MathemaTikZ](https://dl.acm.org/doi/abs/10.1145/3698205.3729558): A Dataset and Benchmark for Mathematical Diagram Generation  
+  * [MathArena](https://matharena.ai/?view=problem) \- Evaluating LLMs on uncontaminated math questions  
+* [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176) \- significant reasoning failures persist, occurring even in seemingly simple scenarios  
+* [BS Benchmark](https://petergpt.github.io/bullshit-benchmark/viewer/index.v2.html?q=sw_tce_02&a=openai%2Fgpt-5.4%40reasoning%3Dxhigh&b=anthropic%2Fclaude-3-haiku%40reasoning%3Ddefault) \- if you give AI a nonsense request, how often will it call it out and refuse to try to make up an answer?
 
