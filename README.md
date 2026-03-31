@@ -80,8 +80,9 @@ General purpose AI chatbots. These chat apps can do more than text chat \- they 
 * [Gemini](https://gemini.google.com/app) \- from Google, with a huge [ecosystem of supporting AI apps](https://ai.google/products/), including [NotebookLM](https://notebooklm.google/). Students can get a [free year of Gemini Pro](https://gemini.google/students/).  
 * [Claude](https://claude.ai) \- good at creative writing and coding ([Claude Code](https://claude.com/product/claude-code)), but can get expensive.  
 * [ChatGPT](https://chatgpt.com/) \- most popular chatbot. Requires paying for Pro account to create custom GPTs.  
-* [HuggingChat](https://huggingface.co/chat/) \- free, private, and open source. Part of [HuggingFace](https://huggingface.co/), a repository of open weight and open source AI models and data sets. See their interactive [Spaces](https://huggingface.co/spaces), including [OCR apps](https://huggingface.co/spaces?category=ocr&sort=trending)  
-* Others include Microsoft Copilot, Poe, Perplexity, Deepseek, Z.ai, etc.
+* [HuggingChat](https://huggingface.co/chat/) \- free, private, and open source. Part of [HuggingFace](https://huggingface.co/), a repository of open weight and open source AI models and data sets. See their interactive [Spaces](https://huggingface.co/spaces), including [OCR apps](https://huggingface.co/spaces?category=ocr&sort=trending).  
+* Others include Microsoft Copilot, Poe, Perplexity, Deepseek, Z.ai, etc.  
+* You can also run free and open AI models locally downloaded on your own computer (using apps like [LM Studio](https://lmstudio.ai/) or [Ollama](https://ollama.com/)) and even locally on your [phone](https://scifilogic.com/best-apps-to-run-llm-on-your-smartphone-locally/) or in your [browser](https://chrome.dev/web-ai-demos/). In this case, you don’t have to worry about costs, connectivity, or privacy issues, but the less memory or vram your device has, the less powerful the AI model you can run.
 
 #### Create a Custom Chatbot
 
@@ -449,7 +450,8 @@ In some cases, it might be appropriate for students to use AI as part of the act
 * [Brainstorm Real World Examples](https://gemini.google.com/?prompt_id=mHLf8EnJK3LL) \- Gemini prompt  
 * [Real World Examples](https://www.edugems.ai/gem/real-world-examples) \- Gemini Gem \- brainstorm 3 relevant, specific, and authentic real-world connections (i.e., specific current or historical events, or age-appropriate news stories) for any academic topic or learning objective  
 * [Alternate Assessment](https://www.edugems.ai/gem/alternate-assessment) \- Gemini Gem \- generate high-quality alternate versions of your existing quizzes or tests  
-* [40 AI Alternate Assessment ideas](https://repository.jisc.ac.uk/9234/1/assessment-ideas-for-an-ai-enabled-world.pptx) (PPT)
+* [40 AI Alternate Assessment ideas](https://repository.jisc.ac.uk/9234/1/assessment-ideas-for-an-ai-enabled-world.pptx) (PPT)  
+* Encourage your students to develop openly-licensed materials as part of an [**open pedagogy**](https://canvas.umn.edu/courses/376979) framework. You can explore several example projects and resources at the [Open Pedagogy Notebook](https://openpedagogy.org/examples/) and the [Open Pedagogy Portal](https://sites.google.com/umn.edu/oen-openpedportal/home) sites.
 
 See also this [Alternative Assessment Guide](https://www.yorku.ca/bold/wp-content/uploads/sites/393/2020/11/Guide_Alternative_Assessments.pdf) and [35 example alternative assessments](https://alternative-assessment.com/?page_id=219).
 
@@ -492,7 +494,7 @@ AI can give students feedback, or suggest feedback to you as a starting point. C
 * See the [Feedback Helper](https://academy.openai.com/public/blogs/built-for-better-teaching-5-gpts-every-faculty-member-should-use-2025-08-13) example at the bottom of that page  
 * Grading \- don’t share student information  
   * [Grading Partner](https://www.edugems.ai/gem/grading-partner) \- Gemini Gem \- Acting as a supportive "Grading Partner" and co-teacher, it strictly adheres to your provided rubric to generate a two-part report: a formal evaluation for your records and a personalized feedback letter for the student  
-  * [ChatGPT Help with Grading](https://blog.tcea.org/chatgpt-grading/) \- don’t share student information 
+  * [ChatGPT Help with Grading](https://blog.tcea.org/chatgpt-grading/)
 
 **AI Student Feedback Tools**
 
@@ -518,7 +520,7 @@ For more tips, see this [Peer assessment handout](https://www.yorku.ca/teachingc
 
 ### Evaluating AI
 
-AI is not very good at teaching and evaluating teaching, because it’s not something you can learn from the Internet. You might say current AI is “book smart” but not street smart, in a way. AI also suffers from sycophancy, biases, and other issues that aren’t going away anytime soon. See [Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact](https://arxiv.org/abs/2603.00883) ([podcast summary](https://drive.google.com/file/d/1n09DUMTNoaJuuZzDnBlocZ52MWWyYgw4/view?usp=drivesdk), [notebooklm notebook](https://notebooklm.google.com/notebook/dc805a41-0355-42cb-9db9-a6c1b45cb222)). 
+AI is not very good at teaching and evaluating teaching, because it’s not something you can learn from the Internet. You might say current AI is “book smart” but not street smart, in a way. AI also suffers from [sycophancy](https://www.psypost.org/sycophantic-chatbots-inflate-peoples-perceptions-that-they-are-better-than-average/), [biases](https://cte.ku.edu/addressing-bias-ai), [privacy](https://www.controlaltachieve.com/2024/03/ai-tools-and-student-data-privacy.html), and [other issues](https://incidentdatabase.ai/) that aren’t going away anytime soon. See [Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact](https://arxiv.org/abs/2603.00883) ([podcast summary](https://drive.google.com/file/d/1n09DUMTNoaJuuZzDnBlocZ52MWWyYgw4/view?usp=drivesdk), [notebooklm notebook](https://notebooklm.google.com/notebook/dc805a41-0355-42cb-9db9-a6c1b45cb222)). 
 
 But of course there are many things AI is very good at and getting better at that can be helpful for educators and students. Still, it is useful to also be aware of AI limitations and risks as an educator or student, as well.
 
@@ -527,7 +529,7 @@ Here are some benchmarks and leaderboards evaluating the capabilities and limita
 * [Pedagogy Benchmark Leaderboard](https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks?benchmark=CDPK&models=%5B%5D&cost=10&pageView=table&dataset=) \- which AI models have the best pedagogical knowledge (textbook-like knowledge)  
 * [Can Your LLM Think Like a Professional? Introducing ProfBench](https://huggingface.co/blog/nvidia/profbench)  
 * [Artificial Analysis Openness Index](https://artificialanalysis.ai/evaluations/artificial-analysis-openness-index) \- which AI models are most open, in terms of sharing their code and training data. The most open have been from the Allen Institute: try [Olmo](https://playground.allenai.org/) and [OlmOCR](https://olmocr.allenai.org/).  
-* [OCR Arena](https://www.ocrarena.ai/battle) \- which AI models are best at OCR tasks, which can be useful for accessibility. Try the [open OCR models](https://huggingface.co/spaces?category=ocr&sort=trending) at huggingface. 
+* [OCR Arena](https://www.ocrarena.ai/battle) \- which AI models are best at OCR tasks, which can be useful for accessibility. Try the [open OCR models](https://huggingface.co/spaces?category=ocr&sort=trending) at huggingface.  
 * [RAID AI Detection Benchmark](https://raid-bench.xyz/leaderboard) \- how good are different AI detectors  
 * Math  
   * [MathTutorBench](https://eth-lre.github.io/mathtutorbench/) \- Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors  
