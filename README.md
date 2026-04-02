@@ -51,11 +51,11 @@ persistent: true
 
 Explore various types of AI tools in the left sidebar or by navigating below, including:
 
-* **AI Chatbots** \- general purpose AI chatbots including Gemini, Claude, and ChatGPT  
-* **Research Tools** \- for you and your students  
-* **Multimedia Tools** \- images, video, etc.  
-* **Process Tracking** \- tools for letting students show the process they used to do their work  
-* **Vibe Coding** \- create interactive apps and websites and games
+* **[AI Chatbots](#ai-chatbots)** \- general purpose AI chatbots including Gemini, Claude, and ChatGPT  
+* **[Research Tools](#research-tools)** \- for you and your students  
+* **[Multimedia Tools](#multimedia-tools)** \- images, video, etc.  
+* **[Process Tracking](#process-tracking)** \- tools for letting students show the process they used to do their work  
+* **[App Builders](#app-builders)** \- create interactive apps and websites and games
 
 **For more collections of educational AI tools, see:**
 
@@ -140,7 +140,7 @@ Tools to help you or your students research topics. Deep research is a new featu
 * [Elicit](http://elicit.org/) \- retrieves papers with natural language search inputs and summarizes them using language models  
 * [ResearchRabbit](https://www.researchrabbit.ai/) \- maps papers based on citations, co-authorship, and other metadata to generate visualizations of literature within a topic
 
-### Image, Video Generation
+### Multimedia Tools
 
 AI tools for generating images, videos, podcasts, music, 3D scenes, etc.
 
