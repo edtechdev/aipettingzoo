@@ -24,7 +24,7 @@ persistent: true
 @beforeAndAfter(docs/img/aipettingzoo.png,docs/img/pettingzoo.png)
 
 
-**Use the table of contents on the left to explore different AI tools and example tasks that may save you time and enhance student learning and engagement in your courses.**
+**Use the table of contents on the left to explore different AI [**Tools**](#tools) and example [**Teaching Tasks**](#tasks) that may save you time and enhance student learning and engagement in your courses.**
 
 **For a quick exploration of tools, check out:**
 
