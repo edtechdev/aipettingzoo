@@ -37,7 +37,7 @@ persistent: true
 
 **New! AI in Education Wiki**
 
-* The [AI in Education Wiki](https://edtechdev.github.io/aied/concepts/ai-education/) is a searchable and AI-ready knowledge base of AI in Education research articles and concepts. Browse the site or use an AI tool to get more research-backed guidance on your educational questions or teaching tasks relating to AI:
+* The [AI in Education Wiki](https://edtechdev.github.io/aied/) is a searchable and AI-ready knowledge base of AI in Education research articles and concepts. Browse the site or use an AI tool to get more research-backed guidance on your educational questions or teaching tasks relating to AI:
   * [AI Ed Researcher Gemini Gem](https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing) - refers to the research knowledge base when answering questions or doing tasks
   * [AI Ed Wiki NotebookLM Notebook](https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share) - see or generate new ancillary materials such as videos, podcasts, slides, infographics
 
