@@ -35,6 +35,11 @@ persistent: true
 * [**Omma**](https://omma.build/) and [**Opal**](https://opal.google/landing/) let you quickly create an app, website, game, or 3D scene. Sample apps: [pomodoro timer](https://omma.build/p/hawktimer-pomodoro-study-app-nu3ajg), [AI petting zoo site](https://omma.build/p/ai-petting-zoo-for-educators-wkzuq9) (Omma) and [course architect](https://opal.google/app/1baxY9N3N1kcG47cwSXl-Yluiz1Dotpnv) (Opal).  
 * [**EduGems**](https://www.edugems.ai/) and **[TeacherServer](https://teacherserver.com/teaching)** have collections of sample custom prompts and tools for instructors. I’ve selected several examples in the Tasks section of this site.
 
+**New! AI in Education Wiki**
+
+* The [AI in Education Wiki](https://edtechdev.github.io/aied/concepts/ai-education/) is a searchable and AI-ready knowledge base of AI in Education research articles and concepts. Browse the site or use an AI tool to get more research-backed guidance on your educational questions or teaching tasks relating to AI:
+  * [AI Ed Researcher Gemini Gem](https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing) - refers to the research knowledge base when answering questions or doing tasks
+  * [AI Ed Wiki NotebookLM Notebook](https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share) - see or generate new ancillary materials such as videos, podcasts, slides, infographics
 
 <center>
 **Short link to view this resource online:**
