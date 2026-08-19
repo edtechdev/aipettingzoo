@@ -320,7 +320,7 @@ See [AI Literacy Across the Curriculum](https://edtechdev.wordpress.com/2025/11/
 It’s simple enough now for students to create their own custom apps, games, and chatbots without any knowledge of programming. This might be an alternative to creating static text or videos.
 
 * [Omma](https://omma.build/) \- brand new tool tool for generating games, apps, web sites, and 3D scenes  
-* [Google Opal](https://opal.google/landing/) \- generate mini-apps  
+* [Google Opal](https://opal.google/landing/) \- generate mini-apps
 * I was using the free and open source [Vibes DIY](https://vibes.diy/) but it’s down for now while they redesign it
 
 #### Help students cope
@@ -396,12 +396,13 @@ See the [TeacherServer teaching section](https://teacherserver.com/teaching) for
   * [AI Prompting Guide for Online Course Design](https://docs.google.com/document/d/1MwpEKSxSlNLSBmrAWjQdksPF4QGZfoRQkvv2zbSefOo/edit?usp=sharing) \- collection of suggested prompts for building an online course piece by piece  
   * Philippa Hardman has articles on [using AI to aid instructional design](https://drphilippahardman.substack.com/p/taker-maker-shaper?isFreemail=true&post_id=142415382&publication_id=926556&r=1gwis&triedRedirect=true)  
 * **One-shot Course Building?** \- If you prompt a standard AI chatbot like Gemini or ChatGPT to build an entire course in one shot, it likely will either not do a great job or run out of memory/time. However, here are experiments on that, if you want to try:  
-  * [Course Architect](https://opal.google/app/1baxY9N3N1kcG47cwSXl-Yluiz1Dotpnv) \- created in Google Opal, doesn’t really generate an extensive course  
-  * [Course Builder](https://www.playlab.ai/project/cmn8y9pex0vkjmi0wnq1tsjmu) \- testing this out in Playlabb. It starts out fairly well, but times out before completing the entire course  
+  * [Course Architect](https://opal.google/app/1baxY9N3N1kcG47cwSXl-Yluiz1Dotpnv) \- created in Google Opal, doesn’t really generate an extensive course
+  * [Course Builder](https://www.playlab.ai/project/cmn8y9pex0vkjmi0wnq1tsjmu) \- testing this out in Playlab. It starts out fairly well, but times out before completing the entire course  
   * [SCORM Course Builder](https://chatgpt.com/g/g-vj3Fiz8Q5-scorm-course-builder) \- Custom GPT \- SCORM is a format that can be imported into your LMS. This had some issues when I tried it  
 * **Generate a Module** \- A compromise, middle way solution is to ask AI to generate a module, rather than an entire course. Here are experiments with that:  
   * [Online Module Developer](https://teacherserver.com/tool.php?id=49) \- on TeacherServer  
-  * [Online Module Designer](https://gemini.google.com/gem/1sPeVIqY5wtESVwGFn6kmgFNon0UXTV6S?usp=sharing) \- testing this Gemini Gem out  
+  * [Online Module Designer](https://gemini.google.com/gem/1sPeVIqY5wtESVwGFn6kmgFNon0UXTV6S?usp=sharing) \- testing this Gemini Gem out
+  * [AssessAI](https://gemini.google.com/gem-labs/1XMKlqE6ADEq6jMWME2hFqdKdH-ZFlWWu) \- Google Opal test of an app to guide you through designing/redesigning an assessment or activity
 * **Semi-autonomous AI Agents** \- It is technically possible now to use AI agents to generate course materials, but it still requires some technical knowledge, it often has costs to use an AI API, and there are still some limitations. In this situation, an AI agent would work with you to first collect information about the course, then generate a plan, and then handoff the work in an iterative cycle to build each component of the course (with your input and feedback along each step of the way). Finally, it would export the course in a usable format (for example a web app or SCORM module or IMS common cartridge). Here’s an experiment with that:  
   * [Sample College Success course](https://liascript.github.io/course/?https://raw.githubusercontent.com/edtechdev/teaching-agent/refs/heads/main/collegesuccessold.md) generated in VS Code w/Copilot using [liascript teaching-agent](https://github.com/edtechdev/teaching-agent).    
     * Compare with this demo from three years ago of generating [liascript](https://liascript.github.io/) courses: [Eduweaver](https://github.com/aneesha/eduweaver)
